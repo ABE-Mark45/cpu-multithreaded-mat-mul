@@ -15,7 +15,7 @@ void parse_args(int argc, char **argv, char **mat_a_file, char **mat_b_file, cha
     {
         *mat_a_file = "a.txt";
         *mat_b_file = "b.txt";
-        *mat_c_file = "c.txt";
+        *mat_c_file = "c.out";
     }
 }
 
